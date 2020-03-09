@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #000000;
+}
+.navbar-nav li a{
+    color: #fff;
+}
+
+.nav-icon li i{
+    height: 40px;
+    color: #fff;
+
+}
+
+
+
+
+
+.banner{
+    background-image: url(../images/banner.png);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.content h1{
+    color: #fff;
+    font-size: 80px;
+    font-weight: 600px;
+}
+.content{
+    width: 460px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.content-button button{
+    position: absolute;
+    top: 75%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+}
+.btn-custom{
+    background-color: #000000;
+    color: #fff;
+}   
+
+.slider h1{
+    color:#000000;
+    font-size: 50px;
+}
+.slider h5{
+    color: #000000;
+    font-size: 20px;
+}
+.slider i{
+    font-size: 50px;
+}
+.slider h3{
+    color: #000000;
+    font-size: 30px;
+    padding-top: 40px;
+}
+
+
+
+
+
+
+.mountain{
+    background-image: url(../images/mountain.png);
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.mountain-content{
+    padding-top: 150px;
+}
+.mountain-content h1{
+    color: #fff;
+    font-size: 50px;
+}
+.mountain-content p{
+    color: #fff;
+    font-size: 16px;
+}
+.feauture{
+    margin-bottom: 30px;
+}
+.feauture h1{
+    color: #000000;
+    font-size: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.feauture i{
+    font-size: 50px;
+}
+
+.feauture img{
+    width: 100%;
+}
+.feauture p{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+
+.footer-content{
+    background-color: #000;
+}
+.footer-menu{
+    
+}
+.footer-menu h4{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+}
+.footer-menu ul{
+
+}
+.footer-menu ul li{
+    list-style: none;
+    padding-top: 10px;
+}
+.footer-menu ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-menu input{
+    border: none;
+    border-radius: 0;
+    margin-top: 10px;
+}
+.footer-menu button{
+    background-color: #c7c7c7;
+    border: none;
+    border-radius: 0;
+    color: #000;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.footer-icon{
+    margin-top: 50px;
+}
+.footer-icon a{
+    padding-right: 30px;
+    color: #fff;
+}
+.footer-icon a i{
+
+}
+.footer-text{
+
+}
+.footer-text p{
+    color: #fff;
+}
+.footer-text a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
